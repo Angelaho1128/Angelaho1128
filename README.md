@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## I'm a Grade 11 student who's passionate about coding!
 <!--
 **Angelaho1128/Angelaho1128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
